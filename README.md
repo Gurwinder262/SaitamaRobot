@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
+  <img src="https://images2.alphacoders.com/101/1012287.png">
 </p>
 
-# Saitama Robot 
+# Norman Robot 
 
 <p align="center">
-- x -|│  “	Just some code who is a bot for fun. ”  │| - x -
+|│  “   I am A Genius Strategist and Planner.  ”  │| 
 </p>
 
 <p align="center">
@@ -40,10 +40,10 @@
 
 
 
-Saitama is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
+NormanRobot is a simple and smart solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
 
-* Bot Link:  <a href="https://t.me/SaitamaRobot" alt="Saitama Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
-* News channel: <a  href="https://t.me/OnePunchUpdates" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/NormanRobot" alt="Norman Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-NormanRobot-blue" /> </a>
+* News channel: <a  href="https://t.me/Magnificent Union" alt="Magnificent Union"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Magnificent%20Union-9cf" /> </a>
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
 
