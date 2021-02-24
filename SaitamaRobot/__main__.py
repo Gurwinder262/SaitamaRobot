@@ -247,7 +247,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🗄 Source code",
-                                url="https://github.com/Gurwinderb262/SaitamaRobot",
+                                url="https://github.com/Gurwinderb262/NormanRobot",
                             )
                         ],
                     ]
